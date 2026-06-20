@@ -1,0 +1,16 @@
+{
+      "caption": "An award winning photography of a modern lake house",
+      "seed": 42,
+      "segments_info": [
+          {"color": [255, 0, 0],   "text": "A modern lake house with a split facade made of brick, wood and glass."},
+          {"color": [0, 200, 0],   "text": "Many full trees"},
+          {"color": [0, 0, 255],   "text": "A lake with clear blue water"},
+          {"color": [255, 200, 1],   "text": "A grass loan that looks very well taken care of"},
+          {"color": [2, 200, 200],   "text": "A combination of plants: bushes and flowers"},
+          {"color": [255, 130, 0],   "text": "A glass facade of a modern house"},
+          {"color": [150, 150, 150],   "text": "sunny sky with few clouds"},
+          {"color": [255, 150, 150],   "text": "Big glass doors and windows of a modern house"},
+          {"color": [100, 100, 255],   "text": "Slim chimney of a house"}
+
+      ]
+}

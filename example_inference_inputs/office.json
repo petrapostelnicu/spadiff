@@ -1,0 +1,13 @@
+{
+      "caption": "An award winning photography of the interior of a modern office.",
+      "seed": 42,
+      "segments_info": [
+          {"color": [255, 0, 0],   "text": "A room that is painted red inside, with red chairs and furniture. People are having a meeting inside."},
+          {"color": [0, 200, 0],   "text": "A room that is painted green, with a green desk."},
+          {"color": [0, 0, 255],   "text": "A conference room that is painted blue, with blue chairs inside and light fixtures on the ceiling"},
+          {"color": [255, 200, 1],   "text": "A hallway that is painted yellow with a light fixture inside."},
+          {"color": [255, 150, 150],   "text": "light fixtures"},
+          {"color": [100, 100, 255],   "text": "stairs made out of wood"},
+          {"color": [2, 200, 200],   "text": "A hallway that is painted lime green with windows."}
+      ]
+}
