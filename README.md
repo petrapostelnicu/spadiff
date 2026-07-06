@@ -2,7 +2,7 @@
 
 SpaDiff is an open-vocabulary segmentation-mask-to-image adapter
 built on top of FLUX that does not require fine-tuning
-the base model. Read the paper at [link].
+the base model. Read the paper at [TUDelft Repository](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fresolver.tudelft.nl%2Fuuid%3A50904b89-0907-490f-8b0a-4131741a8c53&data=05%7C02%7CP.Postelnicu%40student.tudelft.nl%7C38201659c3d54f9adefe08ded11decde%7C096e524d692940308cd38ab42de0887b%7C0%7C0%7C639178123604914451%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=AkAVhDDPjSjc7FUXD4TtgOl5pCdPo5oVtFhbudo3Tjg%3D&reserved=0).
 
 <p align="center">
   <img src="assets/first_figure.jpg" width="90%" height="90%">
